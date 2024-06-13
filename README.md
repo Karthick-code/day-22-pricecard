@@ -1,8 +1,9 @@
-this file belongs to karthick!
-it contains files as react folder
-this react project is created with "npx create-react-app day-22-pricecard"  
+this file belongs to karthick!.
+it contains files as react folder.
+this react project is created with "npx create-react-app day-22-pricecard" . 
 
-it contains 
+it contains
+
     --> index.js
     --> index.css
     --> App.js

@@ -8,6 +8,8 @@ it contains
     --> index.css
     --> App.js
     --> App.css
-    --> Card.js
+    --> Card.js 
+
+Card.js file contains the solution
 
 when new project is created, the logos and additional files are not deleted. it has been included in the git already. so ignore unwanted files. 
